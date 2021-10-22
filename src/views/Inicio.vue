@@ -81,37 +81,39 @@ section
         | 240201524. Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal.      
       li 
         i.lista-ul__vineta
-        | 240201526. Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.   
+        | 210201501. Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.   
       li 
         i.lista-ul__vineta
         | 240201526. Enrique Low Murtra-Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz.      
       li 
         i.lista-ul__vineta
-        | 230101507. Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales.      
+        | 240201533. Fomentar cultura emprendedora según habilidades y competencias personales.      
       li 
         i.lista-ul__vineta
-        | 240201529. Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.      
+        | 230101507. Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales.  
       li 
         i.lista-ul__vineta
-        | 240202501. Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el marco común europeo de referencia para las lenguas.      
+        | 240202501. Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el marco común europeo de referencia para las lenguas.  
       li 
         i.lista-ul__vineta
-        | 240201528. Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales.      
+        | 240201528. Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales.   
       li 
         i.lista-ul__vineta
-        | 210301097. Recuperar cartera de acuerdo con normativa.      
+        | 210301097. Recuperar cartera de acuerdo con normativa. 
       li 
         i.lista-ul__vineta
-        | 240201530. Resultado de Aprendizaje de la Inducción.      
+        | 240201530. Resultado de Aprendizaje de la Inducción.
       li 
         i.lista-ul__vineta
-        | 999999999. Resultado de Aprendizaje etapa práctica.      
+        | 999999999. Resultado de Aprendizaje etapa práctica.  
       li 
         i.lista-ul__vineta
-        | 220501046. Utilizar herramientas informáticas de acuerdo con las necesidades de manejo de información.      
+        | 220501046. Utilizar herramientas informáticas de acuerdo con las necesidades de manejo de información.
       li 
         i.lista-ul__vineta
-        | 260101047. Vender productos y servicios de acuerdo con las necesidades del cliente y objetivos comerciales.     
+        | 260101047. Vender productos y servicios de acuerdo con las necesidades del cliente y objetivos comerciales.      
+            
+         
       
   
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
