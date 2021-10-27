@@ -1,1 +1,1 @@
-module.exports = 'Operaciones de Servicios en Contact Center BPO'
+module.exports = 'Operación de Servicios en Contact Center y BPO'

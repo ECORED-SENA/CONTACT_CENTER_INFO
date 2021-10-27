@@ -7,20 +7,20 @@ section
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xxl-6.banner-principal__info
           .banner-principal__programa
-            .h1.mb-0.text-white Operaciones de Servicios en Contact Center BPO
+            .h1.mb-0.text-white Operación de Servicios en Contact Center y BPO
           
           .h2.text-white Información del programa
           .banner-principal__datos
             ul.text-white
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto Operaciones de Servicios en Contact Center BPO
+                p.banner-principal__datos__item__texto Operación de Servicios en Contact Center y BPO
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 631124
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Total: 
-                p.banner-principal__datos__item__texto 2208 Horas
+                p.banner-principal__datos__item__texto 1344 Horas
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 15 Meses
@@ -35,8 +35,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe width="560" height="315" src="https://www.youtube.com/embed/KB-l9551dmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
-       
+            | <iframe width="560" height="315" src="https://www.youtube.com/embed/e29Xxu6qwcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>       
                                          
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
@@ -57,7 +56,7 @@ section
 
     p Es evidente que la cuarta revolución industrial, caracterizada por un abanico de tecnologías que asocian lo físico, digital y lo biológico, han cambiado para siempre la forma en que las empresas del mundo interactúan con sus usuarios, en donde el papel que desempeñan las comunicaciones unificadas (Contact center), simbolizan una de las innovaciones más manifiestas en la economía global del mundo.
 
-    p En este sentido, el SENA como principal asociado de la empresa colombiana y sus trabajadores, presenta el Técnico en Operaciones de Servicios en Contact Center y BPO, con el cual pretende profesionalizar el personal requerido por la industria de Contact Center y BPO, agremiado hoy día en la BPrO Asociación Colombiana de BPO, quienes han impactado positivamente, en la transformación digital de la empresa colombiana, ya que, por ejemplo, para el año 2017, aportó el 2,9% del PIB (El Heraldo, 2019) y además de ello, es uno de los sectores que gesta un número significativo de empleos en el país, con 260.000 plazas directas (El tiempo, 2019).
+    p En este sentido, el SENA como principal asociado de la empresa colombiana y sus trabajadores, presenta el Técnico en Operación de Servicios en Contact Center y BPO, con el cual pretende profesionalizar el personal requerido por la industria de Contact Center y BPO, agremiado hoy día en la BPrO Asociación Colombiana de BPO, quienes han impactado positivamente, en la transformación digital de la empresa colombiana, ya que, por ejemplo, para el año 2017, aportó el 2,9 % del PIB (El Heraldo, 2019) y además de ello, es uno de los sectores que gesta un número significativo de empleos en el país, con 260.000 plazas directas (El tiempo, 2019).
 
     p.mb-0 Por tanto, este programa Técnico del SENA, constituye un apoyo significativo para todo tipo de organización empresarial, ya que pretende aportar a la productividad de las empresas colombianas, que pretendan aminorar costos y centralizar esfuerzos en sus actividades distintivas y con ello, suscitar valor para sí mismas (Schneider, 2004).
 
@@ -78,7 +77,7 @@ section
         | 260102011. Atender requerimientos de los clientes de acuerdo con procedimiento técnico y normativa de procesos de negocios.      
       li 
         i.lista-ul__vineta
-        | 240201524. Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal.      
+        | 240201524. Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo.      
       li 
         i.lista-ul__vineta
         | 210201501. Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.   
@@ -137,9 +136,9 @@ section
     .titulo__template--a.mb-4
       span.h4 5. Estrategia metodológica
 
-    p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes abiertos y pluritecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
+    p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas, en ambientes abiertos y pluritecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
 
-    p Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento: 
+    p Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento: 
   
 
     p.p1 - El instructor – Tutor
@@ -150,7 +149,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 7. Creditos
+      span.h4 7. Créditos
     .creditos
       div(
         v-for="(creditoKey, index) of Object.keys(creditosData)"
